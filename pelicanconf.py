@@ -1,6 +1,6 @@
 AUTHOR = "jiakai"
 SITENAME = "文献选读课程笔记"
-SITEURL = "https://pr.gxmzuai.top"
+SITEURL = ""
 
 PATH = "content"
 
@@ -24,4 +24,4 @@ SOCIAL = (("X", "https://x.com/real_jiakai"),)
 DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = False
+# RELATIVE_URLS = True
